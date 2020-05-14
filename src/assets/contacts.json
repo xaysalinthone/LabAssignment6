@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "firstName": "June",
+        "lastName": "Sim",
+        "email": "Jsim@gmail.com",
+        "phone": "(559)562-4613",
+        "editing": false
+    },
+    {
+        "id":2,
+        "firstName": "Peng",
+        "lastName": "Go",
+        "email": "PGo23@aim.com",
+        "phone": "(559)643-1002",
+        "editing": false
+
+    },
+    {
+        "id":3,
+        "firstName": "Gill",
+        "lastName": "Dottle",
+        "email": "Dgill10@yahoo.com",
+        "phone": "(559)120-7632",
+        "editing": false
+
+    }
+]
